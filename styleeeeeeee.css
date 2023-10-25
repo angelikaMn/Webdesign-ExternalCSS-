@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+	background-image: 	url("blob:https://web.whatsapp.com/fcf83c76-	7f16-4716-ab4b-cb9e2f1e20aa");
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding:30px;
+    background-color: #fff8f8;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    text-align: center;
+  	font-family:"Poppins", sans-serif;
+  	color : #5a5656
+}
+.form-group {
+    margin-bottom: 15px;
+    color : #5a5656
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"] {
+    width: 93%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+}
+.forget-pass {
+  	margin-bottom ; 15px;
+    text-align: right;
+}
+
+.forget-pass a{
+	font-size: 0.80em;
+    color: #e9969e
+}
+
+.forget-pass a:hover {
+  	text-decoration: underline;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffB8BA;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #ffeeee;
+}
